@@ -1,0 +1,1 @@
+echo "MINMAL='yes'" > minimal.txt_config
